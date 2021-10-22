@@ -1,4 +1,4 @@
-import walk from './index';
+import walk from '../index';
 
 test('should return files', () => {
   const files = walk('./dist/');
