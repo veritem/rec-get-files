@@ -2,7 +2,8 @@
   "name": "rec-get-files",
   "version": "0.0.5",
   "description": "returns all files in a directory tree",
-  "exports": "./dist/index.js",
+  "exports": "./dist/index",
+  "typings": "./dist/index",
   "type": "module",
   "scripts": {
     "dev": "tsc --watch",
@@ -13,11 +14,7 @@
     "dist"
   ],
   "keywords": [],
-  "author": {
-    "name": "Makuza Mugabo Verite ",
-    "email": "mugaboverite@gmail.com",
-    "url": "https://veritem.me"
-  },
+  "author": "Makuza Mugabo Verite <mugaboverite@gmail.com> (https://veritem.me)",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^16.10.9",
