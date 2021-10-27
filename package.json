@@ -1,8 +1,8 @@
 {
   "name": "rec-get-files",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "returns all files in a directory tree",
-  "exports": "./dist/index",
+  "exports": "./dist/index.js",
   "typings": "./dist/index",
   "type": "module",
   "scripts": {
